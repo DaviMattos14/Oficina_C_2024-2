@@ -1,6 +1,6 @@
-media_win:
-	gcc -o media media.c -ansi -pedantic -Wall
-	./media
-media_linux:
-	gcc media.c -o media.out -Wall
-	./media.out
+switch_win:
+	gcc -o switch switch.c -ansi -pedantic -Wall
+	./switch
+switch_linux:
+	gcc switch.c -o switch.out -Wall
+	./switch.out

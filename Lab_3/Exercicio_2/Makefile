@@ -1,6 +1,6 @@
-media_win:
-	gcc -o media media.c -ansi -pedantic -Wall
-	./media
-media_linux:
-	gcc media.c -o media.out -Wall
-	./media.out
+ternario_win:
+	gcc -o ternario ternario.c -ansi -pedantic -Wall
+	./ternario
+ternario_linux:
+	gcc ternario.c -o ternario.out -Wall
+	./ternario.out
