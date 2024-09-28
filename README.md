@@ -1,4 +1,4 @@
-### Repositório para a disciplina 'Oficina C - 2024/2
+### Repositório para a disciplina 'Oficina C - 2024/2'
  >Autor: Davi Mattos
 
 # Resoluções de Laboratórios e Exercícios
