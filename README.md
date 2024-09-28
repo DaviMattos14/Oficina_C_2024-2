@@ -3,7 +3,7 @@
 
 # Resoluções de Laboratórios e Exercícios
 
-Este repositório contém as resoluções de exercícios e laboratórios da disciplina **Oficina de C - 2024/1**. Cada laboratório contém exercícios propostos e os arquivos PDF correspondentes.
+Este repositório contém as resoluções de exercícios dos laboratórios da disciplina **Oficina de C - 2024/2**. Cada laboratório contém exercícios propostos e os arquivos PDF correspondentes.
 
 ## Estrutura do Repositório
 
