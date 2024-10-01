@@ -51,6 +51,12 @@ Este repositório contém as resoluções de exercícios dos laboratórios da di
 
 
 #### Revisão da P1
+- [Exercícios Extras](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/Exercicios_Extras)
+    - [Exercício 1](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/Exercicios_Extras/Exercicio_1)
+    - [Exercício 2](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/Exercicios_Extras/Exercicio_2)
+    - [Exercício 3](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/Exercicios_Extras/Exercicio_3)
+    - [Exercício 4](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/Exercicios_Extras/Exercicio_4)
+    - [Exercícios Extras.pdf](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/Exercicios_Extras/OficinaC-exercicios_extras.pdf)
 - [Código_1.c](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/codigo1.c)
 - [Código_2.c (Fatoração)](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/codigo2.c)
 - [P1 Oficina C 2024/1.pdf](https://github.com/DaviMattos14/Oficina_C_2024-2/blob/main/Revisao_P1/OficinaC_P1_2024-1.pdf)
@@ -98,6 +104,11 @@ Este repositório contém as resoluções de exercícios dos laboratórios da di
 │   └── Exercicio 3
 │   └── Lab_6.pdf
 └── Revisão da P1
+    └── Exercícios Extras
+    │   └── Exercicio 1
+    │   └── Exercicio 2
+    │   └── Exercicio 3
+    │   └── Exercicio 4
     ├── Codigo_1.c
     ├── Codigo_2.c (Fatoração)
     ├── P1 Oficina C 2024/1.pdf
