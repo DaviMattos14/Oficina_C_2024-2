@@ -109,6 +109,7 @@ Este repositório contém as resoluções de exercícios dos laboratórios da di
     │   └── Exercicio 2
     │   └── Exercicio 3
     │   └── Exercicio 4
+    │   └── Exercícios Extras.pdf
     ├── Codigo_1.c
     ├── Codigo_2.c (Fatoração)
     ├── P1 Oficina C 2024/1.pdf
