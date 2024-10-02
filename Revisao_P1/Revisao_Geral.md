@@ -67,7 +67,7 @@ int main() {
 }
 ```
 
-### 6. **Laço de repetição (for)**
+### 6. 
 ```c
 #include <stdio.h>
 
@@ -95,7 +95,7 @@ int main() {
 }
 ```
 
-### 8. **Laço de repetição (do-while)**
+### 8. 
 ```c
 #include <stdio.h>
 
@@ -255,7 +255,9 @@ int main() {
 ```
 ### 18.
 ENTRADA:____________________
+
 SAÍDA:______________________
+
 DEFESA: ____________________
 
 ```c
